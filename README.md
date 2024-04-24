@@ -1,5 +1,4 @@
-
-# Compromising-windows-using-Metasploit
+# EX06 Compromising-windows-using-Metasploit
 Compromising windows using Metasploit
 # Metasploit
 Compromising windows using Metasploit
@@ -21,6 +20,10 @@ Investigate on the various categories of tools as follows:
 ### Step 3:
 
 Open terminal and try execute some kali linux commands
+```
+NAME : DEEPIKA S
+REGISTER N0 : 212222230028
+```
 
 ### PROGRAM:
 Find the attackers ip address using ifconfig
